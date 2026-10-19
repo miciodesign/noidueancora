@@ -1,0 +1,105 @@
+:root {
+  --carta: #FBF6F2;
+  --inchiostro: #2B2024;
+  --bordeaux: #6B2D3E;
+  --bordeaux-scuro: #4A1E2B;
+  --rosa: #E8B9A8;
+  --grigio: #7A6C70;
+  --linea: #E9DED8;
+  --serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --sans: 'Source Sans 3', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--carta);
+  color: var(--inchiostro);
+  font-family: var(--sans);
+  font-size: 19px;
+  line-height: 1.65;
+}
+
+a { color: var(--bordeaux); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: var(--bordeaux-scuro); }
+
+img { max-width: 100%; height: auto; display: block; }
+
+.contenitore { width: min(100% - 40px, 1040px); margin-inline: auto; }
+.stretto { width: min(100% - 40px, 720px); margin-inline: auto; }
+
+/* Testata */
+.testata { border-bottom: 1px solid var(--linea); }
+.testata .contenitore {
+  display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+  padding: 18px 0;
+}
+.logo { display: inline-flex; align-items: center; gap: 14px; text-decoration: none; color: var(--inchiostro); }
+.logo svg { width: 54px; height: 50px; flex-shrink: 0; }
+.logo span { font-family: var(--serif); font-size: 34px; font-weight: 500; line-height: 1; letter-spacing: -0.01em; }
+.logo em { font-style: italic; color: var(--bordeaux); }
+.menu { display: flex; gap: 28px; flex-wrap: wrap; }
+.menu a { text-decoration: none; font-size: 15px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--grigio); font-weight: 600; }
+.menu a:hover, .menu a[aria-current="page"] { color: var(--bordeaux); }
+
+/* Apertura della home */
+.apertura { padding: 88px 0 64px; border-bottom: 1px solid var(--linea); }
+.apertura h1 {
+  font-family: var(--serif); font-weight: 500; font-size: clamp(42px, 6vw, 72px);
+  line-height: 1.05; letter-spacing: -0.01em; margin: 0 0 24px; max-width: 16ch;
+}
+.apertura h1 em { font-style: italic; color: var(--bordeaux); }
+.apertura p { font-size: 22px; max-width: 48ch; margin: 0 0 32px; color: #4D4146; }
+.bottone {
+  display: inline-block; background: var(--bordeaux); color: #fff; text-decoration: none;
+  padding: 14px 28px; border-radius: 999px; font-weight: 600; letter-spacing: 0.04em;
+}
+.bottone:hover { background: var(--bordeaux-scuro); color: #fff; }
+
+/* Elenco articoli */
+.sezione { padding: 64px 0; }
+.sezione h2 {
+  font-family: var(--serif); font-weight: 500; font-size: 36px; margin: 0 0 32px;
+}
+.etichetta { font-size: 13px; letter-spacing: 0.3em; text-transform: uppercase; color: var(--grigio); font-weight: 600; }
+.griglia { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 32px; }
+.scheda { border-top: 2px solid var(--bordeaux); padding-top: 20px; }
+.scheda h3 { font-family: var(--serif); font-weight: 500; font-size: 28px; line-height: 1.15; margin: 10px 0 12px; }
+.scheda h3 a { color: var(--inchiostro); text-decoration: none; }
+.scheda h3 a:hover { color: var(--bordeaux); }
+.scheda p { margin: 0; color: #4D4146; font-size: 17px; }
+.scheda.prossimo { opacity: 0.6; border-top-color: var(--linea); }
+
+/* Articolo e pagine di testo */
+.articolo { padding: 72px 0; }
+.articolo header { margin-bottom: 40px; }
+.articolo h1 {
+  font-family: var(--serif); font-weight: 500; font-size: clamp(36px, 5vw, 56px);
+  line-height: 1.1; letter-spacing: -0.01em; margin: 12px 0 18px;
+}
+.articolo .sommario { font-size: 22px; color: #4D4146; margin: 0; }
+.articolo h2 { font-family: var(--serif); font-weight: 500; font-size: 34px; margin: 48px 0 16px; line-height: 1.15; }
+.articolo p { margin: 0 0 22px; }
+.articolo ol, .articolo ul { padding-left: 24px; margin: 0 0 22px; }
+.articolo li { margin-bottom: 10px; }
+.affiliato {
+  margin: 40px 0; padding: 24px 28px; border: 1px solid var(--linea); border-radius: 12px; background: #fff;
+}
+.affiliato .etichetta { margin-bottom: 8px; display: block; }
+.affiliato p { margin: 0 0 10px; font-size: 17px; }
+.nota { font-size: 15px; color: var(--grigio); border-top: 1px solid var(--linea); padding-top: 20px; margin-top: 40px; }
+
+/* Piè di pagina */
+.piede { border-top: 1px solid var(--linea); padding: 40px 0 48px; color: var(--grigio); font-size: 15px; }
+.piede .contenitore { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+.piede a { color: var(--grigio); }
+
+@media (max-width: 640px) {
+  body { font-size: 18px; }
+  .apertura { padding: 56px 0 44px; }
+  .logo span { font-size: 28px; }
+  .menu { gap: 18px; }
+}

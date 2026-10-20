@@ -30,7 +30,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-10-20 — Come parlare di sesso col partner senza che diventi una lite — `parlare-di-sesso-col-partner`
 - [x] 2026-10-20 — Menopausa e desiderio: cosa cambia davvero (e cosa aiuta) — `menopausa-e-desiderio`
 - [x] 2026-10-20 — Sette posti in Italia dove andare in due, senza figli e senza fretta — `fughe-a-due-italia` (Fughe a due)
-- [ ] Il primo acquisto in un sexy shop a 45 anni: guida per chi non ci è mai entrato — `primo-acquisto-sexy-shop` (Giochi di coppia, con riquadro affiliati)
+- [x] 2026-10-20 — Il primo acquisto in un sexy shop a 45 anni: guida per chi non ci è mai entrato — `primo-acquisto-sexy-shop` (Giochi di coppia, con riquadro affiliati)
 - [ ] Andropausa e calo del desiderio maschile: parlarne senza vergogna — `andropausa-e-desiderio` (Il corpo)
 - [ ] Terme per coppie: le migliori in Italia per un weekend di coccole — `terme-per-coppie-italia` (Fughe a due)
 - [ ] Cinque giochi di coppia per una serata a casa (niente di imbarazzante) — `giochi-di-coppia-serata-a-casa` (Giochi di coppia, con riquadro affiliati)

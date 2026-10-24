@@ -58,3 +58,18 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [ ] Routine a letto: come cambiarla senza stravolgere tutto — `routine-a-letto` (Desiderio)
 
 Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso spirito e li aggiunge qui prima di scriverli.
+
+## Sezione Parole (poesie)
+
+- Un testo ogni due settimane, alternato: prima un classico, poi un testo originale, poi di nuovo un classico, e così via.
+- Classico: solo opere di pubblico dominio (pubblicate prima del 1929 o autori morti da più di 70 anni). Pubblicare il testo originale e una traduzione o un commento nostri, mai traduzioni altrui protette.
+- Testo originale: scritto dalla redazione, breve (12–20 versi), sull'amore che dura. Nessuna citazione protetta.
+- Ogni pagina: testo, commento di 3–4 frasi, "Come leggerlo insieme", nota sull'origine del testo.
+- Aggiungere la scheda in `parole/index.html` e, se rilevante, un link nelle pagine di tema.
+
+### Coda Parole
+
+- [x] 2026-10-24 — Sonetto 116, William Shakespeare (classico, traduzione nostra) — `parole/sonetto-116.html`
+- [x] 2026-10-24 — Quindici anni, in cucina (originale) — `parole/cucina-vent-anni-dopo.html`
+- [ ] Classico: prossimo testo di pubblico dominio (a scelta tra Leopardi, Petrarca, Shelley)
+- [ ] Originale: testo nuovo sull'amore quotidiano

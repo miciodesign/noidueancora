@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-hidden="true">
+  <!-- gambo e foglie -->
+  <path d="M200,330 Q188,372 206,410" fill="none" stroke="#2B2024" stroke-opacity="0.55" stroke-width="3" stroke-linecap="round"/>
+  <path d="M196,372 Q150,360 140,322 Q178,326 196,372 Z" fill="#6B2D3E" fill-opacity="0.35"/>
+  <path d="M204,392 Q252,380 262,344 Q226,346 204,392 Z" fill="#6B2D3E" fill-opacity="0.25"/>
+  <!-- petali esterni -->
+  <g fill="#E8B9A8" fill-opacity="0.6">
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(0 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(45 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(90 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(135 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(180 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(225 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(270 200 200)"/>
+    <ellipse cx="200" cy="120" rx="62" ry="88" transform="rotate(315 200 200)"/>
+  </g>
+  <!-- petali medi -->
+  <g fill="#C98B86" fill-opacity="0.65">
+    <ellipse cx="200" cy="150" rx="46" ry="66" transform="rotate(22 200 200)"/>
+    <ellipse cx="200" cy="150" rx="46" ry="66" transform="rotate(82 200 200)"/>
+    <ellipse cx="200" cy="150" rx="46" ry="66" transform="rotate(142 200 200)"/>
+    <ellipse cx="200" cy="150" rx="46" ry="66" transform="rotate(202 200 200)"/>
+    <ellipse cx="200" cy="150" rx="46" ry="66" transform="rotate(262 200 200)"/>
+    <ellipse cx="200" cy="150" rx="46" ry="66" transform="rotate(322 200 200)"/>
+  </g>
+  <!-- petali interni -->
+  <g fill="#6B2D3E" fill-opacity="0.8">
+    <ellipse cx="200" cy="178" rx="26" ry="38" transform="rotate(10 200 200)"/>
+    <ellipse cx="200" cy="178" rx="26" ry="38" transform="rotate(82 200 200)"/>
+    <ellipse cx="200" cy="178" rx="26" ry="38" transform="rotate(154 200 200)"/>
+    <ellipse cx="200" cy="178" rx="26" ry="38" transform="rotate(226 200 200)"/>
+    <ellipse cx="200" cy="178" rx="26" ry="38" transform="rotate(298 200 200)"/>
+  </g>
+  <!-- centro -->
+  <circle cx="200" cy="200" r="12" fill="#2B2024" fill-opacity="0.85"/>
+  <circle cx="200" cy="200" r="4" fill="#E8B9A8"/>
+</svg>

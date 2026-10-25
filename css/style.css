@@ -112,3 +112,8 @@ img { max-width: 100%; height: auto; display: block; }
   .apertura--immagine .contenitore { grid-template-columns: 1fr; gap: 24px; }
   .apertura-figura img { max-width: 240px; }
 }
+
+/* Menu che va a capo su telefono */
+.testata .contenitore { flex-wrap: wrap; }
+.menu { flex: 1 1 100%; }
+@media (min-width: 761px) { .menu { flex: 0 1 auto; } }

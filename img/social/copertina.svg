@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 624" role="img" aria-label="Noi due, ancora — Intimità e vita di coppia">
+  <rect width="1640" height="624" fill="#FBF6F2"/>
+  <g transform="translate(560 152) scale(3.2)">
+    <path d="M54,25.75 A28,28 0 0,1 54,74.25 A28,28 0 0,1 54,25.75 Z" fill="#6B2D3E" opacity="0.18"/>
+    <circle cx="40" cy="50" r="28" fill="none" stroke="#6B2D3E" stroke-width="3.4"/>
+    <circle cx="68" cy="50" r="28" fill="none" stroke="#2B2024" stroke-width="3.4"/>
+  </g>
+  <text x="800" y="290" font-family="Georgia, serif" font-size="150" fill="#2B2024">Noi due, <tspan font-style="italic" fill="#6B2D3E">ancora</tspan></text>
+  <text x="800" y="380" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="8" fill="#7A6C70">INTIMITÀ E VITA DI COPPIA</text>
+</svg>

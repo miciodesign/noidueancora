@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Noi due, ancora">
+  <rect width="1000" height="1000" fill="#FBF6F2"/>
+  <path d="M500,372 A190,190 0 0,1 500,628 A190,190 0 0,1 500,372 Z" fill="#6B2D3E" opacity="0.2"/>
+  <circle cx="400" cy="500" r="190" fill="none" stroke="#6B2D3E" stroke-width="22"/>
+  <circle cx="600" cy="500" r="190" fill="none" stroke="#2B2024" stroke-width="22"/>
+</svg>

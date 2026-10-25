@@ -24,7 +24,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
   scheda "In arrivo" con lo stesso titolo); se è un articolo Fughe a due, anche in `fughe-a-due.html`.
   Tenere al massimo 9 schede nella home: le più vecchie si tolgono (restano raggiungibili dai link interni).
 
-## Coda (in ordine; spuntare con [x] e data quando pubblicato)
+## Coda (in ordine; ultimo inserito in cima: profumo e cura di sé, 2026-10-25, con link Afrodite) spuntare con [x] e data quando pubblicato)
 
 - [x] 2026-10-19 — Il desiderio non sparisce, si nasconde: dove ritrovarlo dopo 15 anni insieme — `il-desiderio-non-sparisce`
 - [x] 2026-10-20 — Come parlare di sesso col partner senza che diventi una lite — `parlare-di-sesso-col-partner`

@@ -107,10 +107,10 @@ img { max-width: 100%; height: auto; display: block; }
 /* Testata con immagine */
 .apertura--immagine .contenitore { display: grid; grid-template-columns: 1.1fr 0.9fr; align-items: center; gap: 48px; }
 .apertura-figura { margin: 0; }
-.apertura-figura img { width: 100%; max-width: 400px; height: auto; margin-inline: auto; }
+.apertura-figura img { width: 100%; max-width: 250px; opacity: 0.9; height: auto; margin-inline: auto; }
 @media (max-width: 760px) {
   .apertura--immagine .contenitore { grid-template-columns: 1fr; gap: 24px; }
-  .apertura-figura img { max-width: 240px; }
+  .apertura-figura img { max-width: 170px; }
 }
 
 /* Menu che va a capo su telefono */

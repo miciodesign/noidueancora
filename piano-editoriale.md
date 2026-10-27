@@ -36,7 +36,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-10-24 — Cinque giochi di coppia per una serata a casa (niente di imbarazzante) — `giochi-di-coppia-serata-a-casa` (Giochi di coppia, con riquadro affiliati)
 - [x] 2026-10-25 — Figli, lavoro, stanchezza: riprendersi 20 minuti di intimità alla settimana — `venti-minuti-di-intimita` (Vita a due)
 - [x] 2026-10-26 — Una notte fuori senza i figli: come organizzarla (e perché farlo) — `una-notte-fuori-senza-figli` (Fughe a due)
-- [ ] Lubrificanti: guida semplice per chi non ne ha mai usato uno — `guida-lubrificanti` (Il corpo, con riquadro affiliati)
+- [x] 2026-10-27 — Lubrificanti: guida semplice per chi non ne ha mai usato uno — `guida-lubrificanti` (Il corpo, con riquadro affiliati)
 - [ ] Dormire in camere separate ha salvato il nostro matrimonio? — `camere-separate` (Vita a due)
 - [ ] Massaggio di coppia a casa: come farlo bene senza essere esperti — `massaggio-di-coppia` (Giochi di coppia, con riquadro affiliati)
 - [ ] Weekend romantico a Venezia d'inverno: come viverlo in due — `venezia-inverno-coppia` (Fughe a due)

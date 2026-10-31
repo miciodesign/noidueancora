@@ -40,7 +40,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-10-28 — Dormire in camere separate ha salvato il nostro matrimonio? — `camere-separate` (Vita a due)
 - [x] 2026-10-29 — Massaggio di coppia a casa: come farlo bene senza essere esperti — `massaggio-di-coppia` (Giochi di coppia, con riquadro affiliati)
 - [x] 2026-10-30 — Weekend romantico a Venezia d'inverno: come viverlo in due — `venezia-inverno-coppia` (Fughe a due)
-- [ ] Abbiamo provato una settimana senza telefoni a letto: cosa è successo — `settimana-senza-telefoni` (Vita a due)
+- [x] 2026-10-31 — Abbiamo provato una settimana senza telefoni a letto: cosa è successo — `settimana-senza-telefoni` (Vita a due)
 - [ ] Il desiderio diverso: quando uno vuole più dell'altro — `desiderio-diverso` (Desiderio)
 - [ ] Secchezza intima: cosa aiuta davvero, senza vergogna — `secchezza-intima` (Il corpo, con riquadro affiliati)
 - [ ] Val d'Orcia in due: borghi, terme e silenzio — `val-d-orcia-in-due` (Fughe a due)

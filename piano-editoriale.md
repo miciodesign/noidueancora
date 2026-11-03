@@ -43,7 +43,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-10-31 — Abbiamo provato una settimana senza telefoni a letto: cosa è successo — `settimana-senza-telefoni` (Vita a due)
 - [x] 2026-11-01 — Il desiderio diverso: quando uno vuole più dell'altro — `desiderio-diverso` (Desiderio)
 - [x] 2026-11-02 — Secchezza intima: cosa aiuta davvero, senza vergogna — `secchezza-intima` (Il corpo, con riquadro affiliati)
-- [ ] Val d'Orcia in due: borghi, terme e silenzio — `val-d-orcia-in-due` (Fughe a due)
+- [x] 2026-11-03 — Val d'Orcia in due: borghi, terme e silenzio — `val-d-orcia-in-due` (Fughe a due)
 - [ ] Erezione meno affidabile dopo i 50: cosa sapere e come viverla in coppia — `erezione-dopo-i-50` (Il corpo)
 - [ ] Un regalo intimo al partner: come sceglierlo senza mettere a disagio — `regalo-intimo-partner` (Giochi di coppia, con riquadro affiliati)
 - [ ] La cena a casa che vale un ristorante: una serata a due senza uscire — `cena-a-due-a-casa` (Vita a due)

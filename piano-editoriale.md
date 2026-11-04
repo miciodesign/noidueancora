@@ -24,7 +24,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
   scheda "In arrivo" con lo stesso titolo); se è un articolo Fughe a due, anche in `fughe-a-due.html`.
   Tenere al massimo 9 schede nella home: le più vecchie si tolgono (restano raggiungibili dai link interni).
 
-## Coda (in ordine; ultimo inserito in cima: profumo e cura di sé, 2026-10-25, con link Afrodite) spuntare con [x] e data quando pubblicato)
+## Coda (in ordine; ultimo inserito in cima: profumo e cura di sé, 2026-10-25, con link Afrodite; spuntare con [x] e data quando pubblicato)
 
 - [x] 2026-10-19 — Il desiderio non sparisce, si nasconde: dove ritrovarlo dopo 15 anni insieme — `il-desiderio-non-sparisce`
 - [x] 2026-10-20 — Come parlare di sesso col partner senza che diventi una lite — `parlare-di-sesso-col-partner`
@@ -44,7 +44,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-01 — Il desiderio diverso: quando uno vuole più dell'altro — `desiderio-diverso` (Desiderio)
 - [x] 2026-11-02 — Secchezza intima: cosa aiuta davvero, senza vergogna — `secchezza-intima` (Il corpo, con riquadro affiliati)
 - [x] 2026-11-03 — Val d'Orcia in due: borghi, terme e silenzio — `val-d-orcia-in-due` (Fughe a due)
-- [ ] Erezione meno affidabile dopo i 50: cosa sapere e come viverla in coppia — `erezione-dopo-i-50` (Il corpo)
+- [x] 2026-11-04 — Erezione meno affidabile dopo i 50: cosa sapere e come viverla in coppia — `erezione-dopo-i-50` (Il corpo)
 - [ ] Un regalo intimo al partner: come sceglierlo senza mettere a disagio — `regalo-intimo-partner` (Giochi di coppia, con riquadro affiliati)
 - [ ] La cena a casa che vale un ristorante: una serata a due senza uscire — `cena-a-due-a-casa` (Vita a due)
 - [ ] Alto Adige in coppia: masi, spa e il lusso di non fare niente — `alto-adige-in-coppia` (Fughe a due)

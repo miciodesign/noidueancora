@@ -48,7 +48,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-07 — Un regalo intimo al partner: come sceglierlo senza mettere a disagio — `regalo-intimo-partner` (Giochi di coppia, con riquadro affiliati)
 - [x] 2026-11-08 — La cena a casa che vale un ristorante: una serata a due senza uscire — `cena-a-due-a-casa` (Vita a due)
 - [x] 2026-11-09 — Alto Adige in coppia: masi, spa e il lusso di non fare niente — `alto-adige-in-coppia` (Fughe a due)
-- [ ] Ridere a letto: perché l'ironia salva l'intimità — `ridere-a-letto` (Desiderio)
+- [x] 2026-11-10 — Ridere a letto: perché l'ironia salva l'intimità — `ridere-a-letto` (Desiderio)
 - [ ] Il corpo che cambia: piacersi a 50 anni, per lei e per lui — `piacersi-a-50-anni` (Il corpo)
 - [ ] Lingerie dopo i 45: cosa funziona davvero (e cosa lasciar perdere) — `lingerie-dopo-i-45` (Giochi di coppia, con riquadro affiliati)
 - [ ] Matera in due: dormire nei Sassi e girare a piedi — `matera-in-due` (Fughe a due)

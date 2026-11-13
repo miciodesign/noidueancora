@@ -51,7 +51,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-10 — Ridere a letto: perché l'ironia salva l'intimità — `ridere-a-letto` (Desiderio)
 - [x] 2026-11-11 — Il corpo che cambia: piacersi a 50 anni, per lei e per lui — `piacersi-a-50-anni` (Il corpo)
 - [x] 2026-11-12 — Lingerie dopo i 45: cosa funziona davvero (e cosa lasciar perdere) — `lingerie-dopo-i-45` (Giochi di coppia, con riquadro affiliati)
-- [ ] Matera in due: dormire nei Sassi e girare a piedi — `matera-in-due` (Fughe a due)
+- [x] 2026-11-13 — Matera in due: dormire nei Sassi e girare a piedi — `matera-in-due` (Fughe a due)
 - [ ] Quando uno dei due dice sempre no: capire cosa c'è dietro — `quando-uno-dice-sempre-no` (Parlarne)
 - [ ] Terapia di coppia: quando serve, cosa aspettarsi, quanto costa — `terapia-di-coppia` (Parlarne)
 - [ ] Ischia fuori stagione: terme, borghi e mare tiepido in due — `ischia-fuori-stagione` (Fughe a due)

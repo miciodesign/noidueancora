@@ -54,7 +54,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-13 — Matera in due: dormire nei Sassi e girare a piedi — `matera-in-due` (Fughe a due)
 - [x] 2026-11-14 — Quando uno dei due dice sempre no: capire cosa c'è dietro — `quando-uno-dice-sempre-no` (Parlarne)
 - [x] 2026-11-15 — Terapia di coppia: quando serve, cosa aspettarsi, quanto costa — `terapia-di-coppia` (Parlarne)
-- [ ] Ischia fuori stagione: terme, borghi e mare tiepido in due — `ischia-fuori-stagione` (Fughe a due)
+- [x] 2026-11-16 — Ischia fuori stagione: terme, borghi e mare tiepido in due — `ischia-fuori-stagione` (Fughe a due)
 - [ ] Routine a letto: come cambiarla senza stravolgere tutto — `routine-a-letto` (Desiderio)
 
 Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso spirito e li aggiunge qui prima di scriverli.

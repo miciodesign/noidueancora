@@ -24,7 +24,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
   scheda "In arrivo" con lo stesso titolo); se è un articolo Fughe a due, anche in `fughe-a-due.html`.
   Tenere al massimo 9 schede nella home: le più vecchie si tolgono (restano raggiungibili dai link interni).
 
-## Coda (in ordine; ultimo inserito in cima: profumo e cura di sé, 2026-10-25, con link Afrodite; spuntare con [x] e data quando pubblicato)
+## Coda (in ordine; dieci titoli nuovi aggiunti dalla redazione il 2026-11-17 a coda esaurita; spuntare con [x] e data quando pubblicato)
 
 - [x] 2026-10-19 — Il desiderio non sparisce, si nasconde: dove ritrovarlo dopo 15 anni insieme — `il-desiderio-non-sparisce`
 - [x] 2026-10-20 — Come parlare di sesso col partner senza che diventi una lite — `parlare-di-sesso-col-partner`
@@ -55,7 +55,17 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-14 — Quando uno dei due dice sempre no: capire cosa c'è dietro — `quando-uno-dice-sempre-no` (Parlarne)
 - [x] 2026-11-15 — Terapia di coppia: quando serve, cosa aspettarsi, quanto costa — `terapia-di-coppia` (Parlarne)
 - [x] 2026-11-16 — Ischia fuori stagione: terme, borghi e mare tiepido in due — `ischia-fuori-stagione` (Fughe a due)
-- [ ] Routine a letto: come cambiarla senza stravolgere tutto — `routine-a-letto` (Desiderio)
+- [x] 2026-11-17 — Routine a letto: come cambiarla senza stravolgere tutto — `routine-a-letto` (Desiderio, con riquadro affiliati)
+- [ ] Baciarsi ancora: perché il bacio sparisce per primo e come riprenderselo — `baciarsi-ancora` (Desiderio)
+- [ ] Lago di Como fuori stagione: ville, traghetti e silenzio in due — `lago-di-como-in-due` (Fughe a due)
+- [ ] Il pavimento pelvico dopo i 45: cos'è e perché conta, per lei e per lui — `pavimento-pelvico` (Il corpo)
+- [ ] Lettere al partner: scrivere quello che a voce non esce — `lettere-al-partner` (Parlarne)
+- [ ] Il bagno a due: vasca, doccia e candele senza che sembri un film — `bagno-a-due` (Giochi di coppia, con riquadro affiliati)
+- [ ] Svegliarsi insieme: la mattina come momento della coppia — `svegliarsi-insieme` (Vita a due)
+- [ ] Torino in due d'inverno: caffè storici, portici e cioccolata — `torino-in-due` (Fughe a due)
+- [ ] Vino, sonno e farmaci: le abitudini quotidiane che spengono il desiderio — `abitudini-che-spengono-il-desiderio` (Il corpo)
+- [ ] Rifare il letto matrimoniale: materasso, cuscini e luce per dormire (e non solo) meglio in due — `rifare-il-letto-matrimoniale` (Vita a due, con riquadro affiliati)
+- [ ] La gelosia dopo i 50: quando torna e cosa dice della coppia — `gelosia-dopo-i-50` (Parlarne)
 
 Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso spirito e li aggiunge qui prima di scriverli.
 

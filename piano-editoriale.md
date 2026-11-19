@@ -71,7 +71,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 
 ## Sezione Parole (poesie)
 
-- Un testo ogni due settimane, alternato: prima un classico, poi un testo originale, poi di nuovo un classico, e così via.
+- (Sostituito dalla regola di uscita quotidiana, vedi sotto.) Un testo ogni due settimane, alternato: prima un classico, poi un testo originale, poi di nuovo un classico, e così via.
 - Classico: solo opere di pubblico dominio (pubblicate prima del 1929 o autori morti da più di 70 anni). Pubblicare il testo originale e una traduzione o un commento nostri, mai traduzioni altrui protette.
 - Testo originale: scritto dalla redazione, breve (12–20 versi), sull'amore che dura. Nessuna citazione protetta.
 - Ogni pagina: testo, commento di 3–4 frasi, "Come leggerlo insieme", nota sull'origine del testo.
@@ -83,3 +83,31 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-10-24 — Quindici anni, in cucina (originale) — `parole/cucina-vent-anni-dopo.html`
 - [ ] Classico: prossimo testo di pubblico dominio (a scelta tra Leopardi, Petrarca, Shelley)
 - [ ] Originale: testo nuovo sull'amore quotidiano
+
+## Regola di uscita quotidiana (dal 2026-11-19)
+
+- Ogni giorno esce almeno un pezzo in ciascuna sezione: un articolo (coda sopra), un'idea in "Idee in due" e una poesia in "Parole".
+- Idee in due: testo breve (500–800 parole), pratico, senza spesa o con spesa minima, scritto in seconda persona plurale. Stesso tono e stessi limiti degli articoli. Scheda in `idee/index.html` e pagina in `idee/<slug>.html`.
+- Parole: un testo al giorno, alternando classico di pubblico dominio (pubblicato prima del 1929 o autore morto da più di 70 anni, con la nostra traduzione o commento) e testo originale nostro (12–20 versi). Scheda in `parole/index.html`, pagina in `parole/<slug>.html`.
+
+### Coda Idee in due
+
+- [ ] Dieci domande da farsi a cena, senza fretta — `dieci-domande-a-cena`
+- [ ] Una serata senza schermi: come organizzarla davvero — `serata-senza-schermi`
+- [ ] Cucinare insieme una ricetta nuova al mese — `ricetta-nuova-al-mese`
+- [ ] Fingere di essere in un'altra città, dentro casa — `altra-citta-in-casa`
+- [ ] Rileggere lettere, biglietti e vecchie foto insieme — `rileggere-insieme`
+- [ ] Una passeggiata al tramonto senza meta — `passeggiata-senza-meta`
+- [ ] Il quaderno dei piccoli grazie quotidiani — `quaderno-dei-grazie`
+- [ ] Ballare in cucina: cinque canzoni che ci riportano indietro — `ballare-in-cucina`
+- [ ] Imparare insieme una cosa nuova da zero — `imparare-insieme`
+- [ ] La domenica mattina lenta: un rituale semplice — `domenica-mattina-lenta`
+
+### Coda Parole (dal 2026-11-19, un testo al giorno)
+
+- [ ] Classico: "A Silvia", Giacomo Leopardi (1831, pubblico dominio) — `parole/a-silvia-leopardi`
+- [ ] Originale: testo nuovo sull'amore quotidiano — `parole/originale-quotidiano-1`
+- [ ] Classico: "Love's Philosophy", Percy Bysshe Shelley (1820, traduzione nostra) — `parole/love-philosophy-shelley`
+- [ ] Originale: testo nuovo sul tempo che passa insieme — `parole/originale-tempo-insieme-1`
+- [ ] Classico: sonetto di Petrarca, Canzoniere (pubblico dominio, commento nostro) — `parole/petrarca-canzoniere`
+- [ ] Originale: testo nuovo sul silenzio tra due persone — `parole/originale-silenzio-1`

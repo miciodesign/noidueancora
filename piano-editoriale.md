@@ -57,7 +57,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-16 — Ischia fuori stagione: terme, borghi e mare tiepido in due — `ischia-fuori-stagione` (Fughe a due)
 - [x] 2026-11-17 — Routine a letto: come cambiarla senza stravolgere tutto — `routine-a-letto` (Desiderio, con riquadro affiliati)
 - [x] 2026-11-18 — Baciarsi ancora: perché il bacio sparisce per primo e come riprenderselo — `baciarsi-ancora` (Desiderio)
-- [ ] Lago di Como fuori stagione: ville, traghetti e silenzio in due — `lago-di-como-in-due` (Fughe a due)
+- [x] 2026-11-19 — Lago di Como fuori stagione: ville, traghetti e silenzio in due — `lago-di-como-in-due` (Fughe a due)
 - [ ] Il pavimento pelvico dopo i 45: cos'è e perché conta, per lei e per lui — `pavimento-pelvico` (Il corpo)
 - [ ] Lettere al partner: scrivere quello che a voce non esce — `lettere-al-partner` (Parlarne)
 - [ ] Il bagno a due: vasca, doccia e candele senza che sembri un film — `bagno-a-due` (Giochi di coppia, con riquadro affiliati)

@@ -59,7 +59,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-18 — Baciarsi ancora: perché il bacio sparisce per primo e come riprenderselo — `baciarsi-ancora` (Desiderio)
 - [x] 2026-11-19 — Lago di Como fuori stagione: ville, traghetti e silenzio in due — `lago-di-como-in-due` (Fughe a due)
 - [x] 2026-11-20 — Il pavimento pelvico dopo i 45: cos'è e perché conta, per lei e per lui — `pavimento-pelvico` (Il corpo)
-- [ ] Lettere al partner: scrivere quello che a voce non esce — `lettere-al-partner` (Parlarne)
+- [x] 2026-11-21 — Lettere al partner: scrivere quello che a voce non esce — `lettere-al-partner` (Parlarne)
 - [ ] Il bagno a due: vasca, doccia e candele senza che sembri un film — `bagno-a-due` (Giochi di coppia, con riquadro affiliati)
 - [ ] Svegliarsi insieme: la mattina come momento della coppia — `svegliarsi-insieme` (Vita a due)
 - [ ] Torino in due d'inverno: caffè storici, portici e cioccolata — `torino-in-due` (Fughe a due)
@@ -82,7 +82,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-10-24 — Sonetto 116, William Shakespeare (classico, traduzione nostra) — `parole/sonetto-116.html`
 - [x] 2026-10-24 — Quindici anni, in cucina (originale) — `parole/cucina-vent-anni-dopo.html`
 - [x] 2026-11-20 — Classico: prossimo testo di pubblico dominio (a scelta tra Leopardi, Petrarca, Shelley) — uscito "A Silvia", vedi coda quotidiana sotto
-- [ ] Originale: testo nuovo sull'amore quotidiano
+- [x] 2026-11-21 — Originale: testo nuovo sull'amore quotidiano — uscito "Inventario", vedi coda quotidiana sotto
 
 ## Regola di uscita quotidiana (dal 2026-11-19)
 
@@ -93,7 +93,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 ### Coda Idee in due
 
 - [x] 2026-11-20 — Dieci domande da farsi a cena, senza fretta — `dieci-domande-a-cena`
-- [ ] Una serata senza schermi: come organizzarla davvero — `serata-senza-schermi`
+- [x] 2026-11-21 — Una serata senza schermi: come organizzarla davvero — `serata-senza-schermi`
 - [ ] Cucinare insieme una ricetta nuova al mese — `ricetta-nuova-al-mese`
 - [ ] Fingere di essere in un'altra città, dentro casa — `altra-citta-in-casa`
 - [ ] Rileggere lettere, biglietti e vecchie foto insieme — `rileggere-insieme`
@@ -106,7 +106,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 ### Coda Parole (dal 2026-11-19, un testo al giorno)
 
 - [x] 2026-11-20 — Classico: "A Silvia", Giacomo Leopardi (1831, pubblico dominio) — `parole/a-silvia-leopardi`
-- [ ] Originale: testo nuovo sull'amore quotidiano — `parole/originale-quotidiano-1`
+- [x] 2026-11-21 — Originale: testo nuovo sull'amore quotidiano — uscito "Inventario", `parole/inventario`
 - [ ] Classico: "Love's Philosophy", Percy Bysshe Shelley (1820, traduzione nostra) — `parole/love-philosophy-shelley`
 - [ ] Originale: testo nuovo sul tempo che passa insieme — `parole/originale-tempo-insieme-1`
 - [ ] Classico: sonetto di Petrarca, Canzoniere (pubblico dominio, commento nostro) — `parole/petrarca-canzoniere`

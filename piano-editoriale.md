@@ -62,7 +62,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-21 — Lettere al partner: scrivere quello che a voce non esce — `lettere-al-partner` (Parlarne)
 - [x] 2026-11-22 — Il bagno a due: vasca, doccia e candele senza che sembri un film — `bagno-a-due` (Giochi di coppia, con riquadro affiliati)
 - [x] 2026-11-23 — Svegliarsi insieme: la mattina come momento della coppia — `svegliarsi-insieme` (Vita a due)
-- [ ] Torino in due d'inverno: caffè storici, portici e cioccolata — `torino-in-due` (Fughe a due)
+- [x] 2026-11-24 — Torino in due d'inverno: caffè storici, portici e cioccolata — `torino-in-due` (Fughe a due)
 - [ ] Vino, sonno e farmaci: le abitudini quotidiane che spengono il desiderio — `abitudini-che-spengono-il-desiderio` (Il corpo)
 - [ ] Rifare il letto matrimoniale: materasso, cuscini e luce per dormire (e non solo) meglio in due — `rifare-il-letto-matrimoniale` (Vita a due, con riquadro affiliati)
 - [ ] La gelosia dopo i 50: quando torna e cosa dice della coppia — `gelosia-dopo-i-50` (Parlarne)
@@ -96,7 +96,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-21 — Una serata senza schermi: come organizzarla davvero — `serata-senza-schermi`
 - [x] 2026-11-22 — Cucinare insieme una ricetta nuova al mese — `ricetta-nuova-al-mese`
 - [x] 2026-11-23 — Fingere di essere in un'altra città, dentro casa — `altra-citta-in-casa`
-- [ ] Rileggere lettere, biglietti e vecchie foto insieme — `rileggere-insieme`
+- [x] 2026-11-24 — Rileggere lettere, biglietti e vecchie foto insieme — `rileggere-insieme`
 - [ ] Una passeggiata al tramonto senza meta — `passeggiata-senza-meta`
 - [ ] Il quaderno dei piccoli grazie quotidiani — `quaderno-dei-grazie`
 - [ ] Ballare in cucina: cinque canzoni che ci riportano indietro — `ballare-in-cucina`
@@ -109,5 +109,5 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-21 — Originale: testo nuovo sull'amore quotidiano — uscito "Inventario", `parole/inventario`
 - [x] 2026-11-22 — Classico: "Love's Philosophy", Percy Bysshe Shelley (1819, traduzione nostra) — `parole/love-philosophy-shelley`
 - [x] 2026-11-23 — Originale: testo nuovo sul tempo che passa insieme — uscito "Contare gli anni", `parole/contare-gli-anni`
-- [ ] Classico: sonetto di Petrarca, Canzoniere (pubblico dominio, commento nostro) — `parole/petrarca-canzoniere`
+- [x] 2026-11-24 — Classico: sonetto di Petrarca, Canzoniere (pubblico dominio, commento nostro) — uscito "Benedetto sia 'l giorno" (sonetto 61), `parole/petrarca-canzoniere`
 - [ ] Originale: testo nuovo sul silenzio tra due persone — `parole/originale-silenzio-1`

@@ -63,7 +63,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-22 — Il bagno a due: vasca, doccia e candele senza che sembri un film — `bagno-a-due` (Giochi di coppia, con riquadro affiliati)
 - [x] 2026-11-23 — Svegliarsi insieme: la mattina come momento della coppia — `svegliarsi-insieme` (Vita a due)
 - [x] 2026-11-24 — Torino in due d'inverno: caffè storici, portici e cioccolata — `torino-in-due` (Fughe a due)
-- [ ] Vino, sonno e farmaci: le abitudini quotidiane che spengono il desiderio — `abitudini-che-spengono-il-desiderio` (Il corpo)
+- [x] 2026-11-25 — Vino, sonno e farmaci: le abitudini quotidiane che spengono il desiderio — `abitudini-che-spengono-il-desiderio` (Il corpo)
 - [ ] Rifare il letto matrimoniale: materasso, cuscini e luce per dormire (e non solo) meglio in due — `rifare-il-letto-matrimoniale` (Vita a due, con riquadro affiliati)
 - [ ] La gelosia dopo i 50: quando torna e cosa dice della coppia — `gelosia-dopo-i-50` (Parlarne)
 
@@ -97,17 +97,27 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-22 — Cucinare insieme una ricetta nuova al mese — `ricetta-nuova-al-mese`
 - [x] 2026-11-23 — Fingere di essere in un'altra città, dentro casa — `altra-citta-in-casa`
 - [x] 2026-11-24 — Rileggere lettere, biglietti e vecchie foto insieme — `rileggere-insieme`
-- [ ] Una passeggiata al tramonto senza meta — `passeggiata-senza-meta`
+- [x] 2026-11-25 — Una passeggiata al tramonto senza meta — `passeggiata-senza-meta`
 - [ ] Il quaderno dei piccoli grazie quotidiani — `quaderno-dei-grazie`
 - [ ] Ballare in cucina: cinque canzoni che ci riportano indietro — `ballare-in-cucina`
 - [ ] Imparare insieme una cosa nuova da zero — `imparare-insieme`
 - [ ] La domenica mattina lenta: un rituale semplice — `domenica-mattina-lenta`
 
-### Coda Parole (dal 2026-11-19, un testo al giorno)
+### Coda Parole (dal 2026-11-19, un testo al giorno; dieci titoli nuovi aggiunti dalla redazione il 2026-11-25 a coda esaurita)
 
 - [x] 2026-11-20 — Classico: "A Silvia", Giacomo Leopardi (1831, pubblico dominio) — `parole/a-silvia-leopardi`
 - [x] 2026-11-21 — Originale: testo nuovo sull'amore quotidiano — uscito "Inventario", `parole/inventario`
 - [x] 2026-11-22 — Classico: "Love's Philosophy", Percy Bysshe Shelley (1819, traduzione nostra) — `parole/love-philosophy-shelley`
 - [x] 2026-11-23 — Originale: testo nuovo sul tempo che passa insieme — uscito "Contare gli anni", `parole/contare-gli-anni`
 - [x] 2026-11-24 — Classico: sonetto di Petrarca, Canzoniere (pubblico dominio, commento nostro) — uscito "Benedetto sia 'l giorno" (sonetto 61), `parole/petrarca-canzoniere`
-- [ ] Originale: testo nuovo sul silenzio tra due persone — `parole/originale-silenzio-1`
+- [x] 2026-11-25 — Originale: testo nuovo sul silenzio tra due persone — uscito "Il silenzio che sappiamo", `parole/il-silenzio-che-sappiamo`
+- [ ] Classico: Sonetto 18, William Shakespeare ("Shall I compare thee", 1609, pubblico dominio, traduzione nostra) — `parole/sonetto-18-shakespeare`
+- [ ] Originale: testo nuovo sulle mani dell'altro (quello che le mani sanno fare dopo vent'anni) — `parole/le-mani`
+- [ ] Classico: Carme 5, Catullo ("Vivamus, mea Lesbia", I sec. a.C., pubblico dominio, traduzione nostra) — `parole/catullo-carme-5`
+- [ ] Originale: testo nuovo sul litigio che passa (la sera dopo, la cucina, la prima parola) — `parole/dopo-il-litigio`
+- [ ] Classico: Sonetto 43, Elizabeth Barrett Browning ("How do I love thee?", 1850, pubblico dominio, traduzione nostra) — `parole/sonetto-43-barrett-browning`
+- [ ] Originale: testo nuovo sui capelli che cambiano colore (invecchiare sotto gli occhi dell'altro) — `parole/capelli-bianchi`
+- [ ] Classico: Frammento 31, Saffo ("Mi sembra pari agli dèi", VII–VI sec. a.C., pubblico dominio, traduzione nostra) — `parole/saffo-frammento-31`
+- [ ] Originale: testo nuovo sul tornare a casa la sera (la chiave, la luce accesa, l'odore della cena) — `parole/tornare-a-casa`
+- [ ] Classico: "Tanto gentile e tanto onesta pare", Dante Alighieri (Vita Nuova, 1294 ca., pubblico dominio, commento nostro) — `parole/tanto-gentile-dante`
+- [ ] Originale: testo nuovo sul letto rifatto insieme la mattina (gesti piccoli, in due) — `parole/il-letto-la-mattina`

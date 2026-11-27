@@ -65,7 +65,20 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 - [x] 2026-11-24 — Torino in due d'inverno: caffè storici, portici e cioccolata — `torino-in-due` (Fughe a due)
 - [x] 2026-11-25 — Vino, sonno e farmaci: le abitudini quotidiane che spengono il desiderio — `abitudini-che-spengono-il-desiderio` (Il corpo)
 - [x] 2026-11-26 — Rifare il letto matrimoniale: materasso, cuscini e luce per dormire (e non solo) meglio in due — `rifare-il-letto-matrimoniale` (Vita a due, con riquadro affiliati)
-- [ ] La gelosia dopo i 50: quando torna e cosa dice della coppia — `gelosia-dopo-i-50` (Parlarne)
+- [x] 2026-11-27 — La gelosia dopo i 50: quando torna e cosa dice della coppia — `gelosia-dopo-i-50` (Parlarne)
+
+Dieci titoli nuovi aggiunti dalla redazione il 2026-11-27 a coda esaurita:
+
+- [ ] Natale in due quando i figli sono grandi: tradizioni nuove per una casa più silenziosa — `natale-in-due` (Vita a due)
+- [ ] Dire "ti amo" dopo vent'anni: perché costa e perché serve ancora — `dire-ti-amo` (Parlarne)
+- [ ] Bologna in due d'inverno: portici, osterie e una città a misura di passeggiata — `bologna-in-due` (Fughe a due)
+- [ ] Dolore durante il rapporto dopo i 45: capirlo, parlarne, farsi aiutare — `dolore-durante-il-rapporto` (Il corpo)
+- [ ] Giochi per la coppia dopo i 50: come sceglierne uno insieme, senza imbarazzo — `giochi-per-la-coppia-dopo-i-50` (Giochi di coppia, con riquadro affiliati)
+- [ ] Tornare a flirtare con la persona con cui si vive — `flirtare-col-partner` (Desiderio)
+- [ ] Il nido vuoto: quando i figli escono di casa e si torna in due — `nido-vuoto` (Vita a due)
+- [ ] Cinque Terre fuori stagione: sentieri, treno e mare d'inverno in due — `cinque-terre-in-due` (Fughe a due)
+- [ ] La prima notte in albergo dopo anni: come viverla senza aspettative — `notte-in-albergo-senza-aspettative` (Desiderio)
+- [ ] Dopo un tradimento: ricostruire la fiducia, se si decide di restare — `dopo-un-tradimento` (Parlarne)
 
 Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso spirito e li aggiunge qui prima di scriverli.
 
@@ -99,7 +112,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-24 — Rileggere lettere, biglietti e vecchie foto insieme — `rileggere-insieme`
 - [x] 2026-11-25 — Una passeggiata al tramonto senza meta — `passeggiata-senza-meta`
 - [x] 2026-11-26 — Il quaderno dei piccoli grazie quotidiani — `quaderno-dei-grazie`
-- [ ] Ballare in cucina: cinque canzoni che ci riportano indietro — `ballare-in-cucina`
+- [x] 2026-11-27 — Ballare in cucina: cinque canzoni che ci riportano indietro — `ballare-in-cucina`
 - [ ] Imparare insieme una cosa nuova da zero — `imparare-insieme`
 - [ ] La domenica mattina lenta: un rituale semplice — `domenica-mattina-lenta`
 
@@ -112,7 +125,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-24 — Classico: sonetto di Petrarca, Canzoniere (pubblico dominio, commento nostro) — uscito "Benedetto sia 'l giorno" (sonetto 61), `parole/petrarca-canzoniere`
 - [x] 2026-11-25 — Originale: testo nuovo sul silenzio tra due persone — uscito "Il silenzio che sappiamo", `parole/il-silenzio-che-sappiamo`
 - [x] 2026-11-26 — Classico: Sonetto 18, William Shakespeare ("Shall I compare thee", 1609, pubblico dominio, traduzione nostra) — `parole/sonetto-18-shakespeare`
-- [ ] Originale: testo nuovo sulle mani dell'altro (quello che le mani sanno fare dopo vent'anni) — `parole/le-mani`
+- [x] 2026-11-27 — Originale: testo nuovo sulle mani dell'altro (quello che le mani sanno fare dopo vent'anni) — uscito "Le mani", `parole/le-mani`
 - [ ] Classico: Carme 5, Catullo ("Vivamus, mea Lesbia", I sec. a.C., pubblico dominio, traduzione nostra) — `parole/catullo-carme-5`
 - [ ] Originale: testo nuovo sul litigio che passa (la sera dopo, la cucina, la prima parola) — `parole/dopo-il-litigio`
 - [ ] Classico: Sonetto 43, Elizabeth Barrett Browning ("How do I love thee?", 1850, pubblico dominio, traduzione nostra) — `parole/sonetto-43-barrett-browning`

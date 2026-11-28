@@ -69,7 +69,7 @@ Si scrive come una rivista seria parlerebbe a due adulti intelligenti. Mai da "e
 
 Dieci titoli nuovi aggiunti dalla redazione il 2026-11-27 a coda esaurita:
 
-- [ ] Natale in due quando i figli sono grandi: tradizioni nuove per una casa più silenziosa — `natale-in-due` (Vita a due)
+- [x] 2026-11-28 — Natale in due quando i figli sono grandi: tradizioni nuove per una casa più silenziosa — `natale-in-due` (Vita a due)
 - [ ] Dire "ti amo" dopo vent'anni: perché costa e perché serve ancora — `dire-ti-amo` (Parlarne)
 - [ ] Bologna in due d'inverno: portici, osterie e una città a misura di passeggiata — `bologna-in-due` (Fughe a due)
 - [ ] Dolore durante il rapporto dopo i 45: capirlo, parlarne, farsi aiutare — `dolore-durante-il-rapporto` (Il corpo)
@@ -113,7 +113,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-25 — Una passeggiata al tramonto senza meta — `passeggiata-senza-meta`
 - [x] 2026-11-26 — Il quaderno dei piccoli grazie quotidiani — `quaderno-dei-grazie`
 - [x] 2026-11-27 — Ballare in cucina: cinque canzoni che ci riportano indietro — `ballare-in-cucina`
-- [ ] Imparare insieme una cosa nuova da zero — `imparare-insieme`
+- [x] 2026-11-28 — Imparare insieme una cosa nuova da zero — `imparare-insieme`
 - [ ] La domenica mattina lenta: un rituale semplice — `domenica-mattina-lenta`
 
 ### Coda Parole (dal 2026-11-19, un testo al giorno; dieci titoli nuovi aggiunti dalla redazione il 2026-11-25 a coda esaurita)
@@ -126,7 +126,7 @@ Quando la coda è finita, la redazione propone dieci titoli nuovi nello stesso s
 - [x] 2026-11-25 — Originale: testo nuovo sul silenzio tra due persone — uscito "Il silenzio che sappiamo", `parole/il-silenzio-che-sappiamo`
 - [x] 2026-11-26 — Classico: Sonetto 18, William Shakespeare ("Shall I compare thee", 1609, pubblico dominio, traduzione nostra) — `parole/sonetto-18-shakespeare`
 - [x] 2026-11-27 — Originale: testo nuovo sulle mani dell'altro (quello che le mani sanno fare dopo vent'anni) — uscito "Le mani", `parole/le-mani`
-- [ ] Classico: Carme 5, Catullo ("Vivamus, mea Lesbia", I sec. a.C., pubblico dominio, traduzione nostra) — `parole/catullo-carme-5`
+- [x] 2026-11-28 — Classico: Carme 5, Catullo ("Vivamus, mea Lesbia", I sec. a.C., pubblico dominio, traduzione nostra) — `parole/catullo-carme-5`
 - [ ] Originale: testo nuovo sul litigio che passa (la sera dopo, la cucina, la prima parola) — `parole/dopo-il-litigio`
 - [ ] Classico: Sonetto 43, Elizabeth Barrett Browning ("How do I love thee?", 1850, pubblico dominio, traduzione nostra) — `parole/sonetto-43-barrett-browning`
 - [ ] Originale: testo nuovo sui capelli che cambiano colore (invecchiare sotto gli occhi dell'altro) — `parole/capelli-bianchi`
